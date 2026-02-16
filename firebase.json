@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "rope-monitoring",
+          "appId": "1:120677372784:android:b966c1e8a9f42fcbbaf5b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "rope-monitoring",
+          "configurations": {
+            "android": "1:120677372784:android:b966c1e8a9f42fcbbaf5b5",
+            "web": "1:120677372784:web:1e3d1c100ef18951baf5b5"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}

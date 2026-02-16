@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120677372784",
+    "project_id": "rope-monitoring",
+    "storage_bucket": "rope-monitoring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120677372784:android:ed4d3fc857733da4baf5b5",
+        "android_client_info": {
+          "package_name": "com.example.rope_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jxbsQiLZYRy5i5Syt7Jpui9yWDrkMz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120677372784:android:b966c1e8a9f42fcbbaf5b5",
+        "android_client_info": {
+          "package_name": "com.example.rope_monitoring_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jxbsQiLZYRy5i5Syt7Jpui9yWDrkMz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
