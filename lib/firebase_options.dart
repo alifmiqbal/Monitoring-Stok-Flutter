@@ -49,21 +49,3 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC1Sn4pTxoJjGq3xm75rRxJLeKRKsjFR_M',
-    appId: '1:120677372784:web:1e3d1c100ef18951baf5b5',
-    messagingSenderId: '120677372784',
-    projectId: 'rope-monitoring',
-    authDomain: 'rope-monitoring.firebaseapp.com',
-    storageBucket: 'rope-monitoring.firebasestorage.app',
-    measurementId: 'G-P9WT0JGGRZ',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD7jxbsQiLZYRy5i5Syt7Jpui9yWDrkMz4',
-    appId: '1:120677372784:android:b966c1e8a9f42fcbbaf5b5',
-    messagingSenderId: '120677372784',
-    projectId: 'rope-monitoring',
-    storageBucket: 'rope-monitoring.firebasestorage.app',
-  );
-}
